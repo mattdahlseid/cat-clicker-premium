@@ -1,0 +1,24 @@
+TO DO:
+ - highlight selected cat in catList
+ - style the app like your previous version
+
+ ADMIN REQUIREMENTS
+    should display: 
+        - When the cancel button in the admin area is pressed, the admin area disappears.
+        - When the save button in the admin area is pressed, the currently-selected cat's values update with the values in the admin area, and the admin area disappears.
+
+
+make sure if someone doesn't enter an image with a .jpg (or .png?) that they get an error message
+
+only allow whole positive integers for click count input
+
+get cancel to work
+
+
+cancelButton.addEventListener('click', function() {
+            newImage = selectedCat.url;
+            newCount = selectedCat.count;
+            newName = selectedCat.name;
+            console.log('hi');
+        })
+    
