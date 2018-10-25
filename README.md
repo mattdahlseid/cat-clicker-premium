@@ -1,4 +1,7 @@
-# cat-clicker-premium
+# Cat Clicker Premium
+
+[Click this link to click some cats](https://mattdahlseid.github.io/cat-clicker-premium/)
+
 ## Overview
 This is an optional project within [Udacity's Front-End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) program that is used to demonstrate knowledge of MVC (Mode, View, Controller) JavaScript architecture. Udacity uses the terms Model, View, Octopus in its course.
 
